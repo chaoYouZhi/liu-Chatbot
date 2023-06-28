@@ -5,7 +5,7 @@ import (
 )
 
 const (
-	maxTokens   = 2000
+	maxTokens   = 18000
 	temperature = 0.7
 )
 
